@@ -1,2 +1,3 @@
 # .github
-My default community health files
+
+Default community health files for Begin.
